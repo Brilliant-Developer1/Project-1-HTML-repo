@@ -3,16 +3,16 @@
      box-sizing: border-box;}
 
 .container{
-    background-color: rgb(221, 232, 233);
+    background-color: #dde8e9;
     width: 60%;
-    height: 1000px;
+    height: 3000px;
     margin: 0 auto;
-
 }
 img {
-    margin-top: 50px;
-    margin-left: 200px;
+    margin-top: 10px;
+    margin-left: 35px;
     border-radius: 50%;
+    position: absolute;
     
 }
 .peragraph{
@@ -22,6 +22,7 @@ img {
     padding: 10px;
     border-radius: 10px;
     margin-top: 20px;
+
 }
 .head{
     text-align: center;
@@ -30,4 +31,9 @@ img {
 
 .im{
     text-align: center;
+    
+    
+}
+.imgcon{
+    
 }
